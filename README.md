@@ -1,8 +1,24 @@
-# vue3
+# project
 
+## Project setup
+```
+npm install
+```
 
-Vue 3 emit. Передача props, практика работы с компонентами.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-https://www.youtube.com/watch?v=ON7nd5XGQOI
+### Compiles and minifies for production
+```
+npm run build
+```
 
-Лабіринт Знання
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
