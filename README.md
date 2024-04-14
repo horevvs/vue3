@@ -21,4 +21,5 @@ npm run lint
 ```
 
 ### Customize configuration
+с пропсов анчинаем урок. 
 See [линк на уроки](https://www.youtube.com/watch?v=ON7nd5XGQOI).
